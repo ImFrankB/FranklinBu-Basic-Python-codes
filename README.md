@@ -1,2 +1,2 @@
 # FranklinBu-Basic-Python-codes
-These are basic python codes i created
+Some basic and beginner coding challenges i completed :)
