@@ -1,2 +1,2 @@
 # FranklinBu-Basic-Python-codes
-These are python coding challenges I solved from Udemy.
+These are basic python codes i created
